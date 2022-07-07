@@ -9,7 +9,7 @@ root.config(bg='#323232')
 
 df = pd.read_csv('GeneTable.csv', sep=';'  , engine='python') #read csv
 
-def buttonpressed() :
+def buttonpressed() :  #button 
     label.configure(state="normal")
     global df
     ID = Geneid.get()
