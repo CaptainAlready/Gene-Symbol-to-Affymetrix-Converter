@@ -1,5 +1,5 @@
 # Gene-Symbol-to-Affymetrix-Converter
-Simple tool to convert Gene Symbols to Affymetrix.
+Simple tool to match Gene Symbols to Affymetrix format.
 
 # Requirements
 > Genetable.csv (Gene - Affymetrix Lookup Table) 
